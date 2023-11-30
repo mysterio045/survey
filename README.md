@@ -22,7 +22,7 @@ Provide instructions on how to install or set up your website.
 bash
 Copy code
 # Clone the repository
-git clone https://github.com/your-username/mysterio045
+git clone https://mysterio045/survey
 
 # Change into the project directory
 cd your-repo
